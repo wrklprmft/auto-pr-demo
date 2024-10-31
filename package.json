@@ -1,4 +1,7 @@
 {
+  "comments": {
+    "//": "force pr"
+  },
   "name": "owasp-nodejs-goat",
   "private": true,
   "version": "1.3.0",
